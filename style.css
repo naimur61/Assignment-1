@@ -38,11 +38,13 @@ a {
 	color: rgb(235, 85, 31);
 }
 .section {
-	width: 700px;
 	display: flex;
+	margin: auto;
+}
+.selector {
+	width: 700px;
 	text-align: center;
 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-	margin: auto;
 	color: rgb(123, 122, 122);
 }
 .half-width {
@@ -51,8 +53,8 @@ a {
 	margin: 10px;
 	padding: 26px;
 }
-#amount {
-	border-style: hidden;
+#input-ammount {
+	border-style: none;
 	text-align: center;
 }
 hr {
@@ -66,4 +68,31 @@ hr {
 	color: white;
 	padding: 5px 10px;
 	border-radius: 5px;
+}
+.icon {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 10px 80px 10px 80px;
+	padding: 10px 50px 10px 50px;
+}
+.plan-content {
+	width: 50%;
+	background-color: antiquewhite;
+	margin: 30px 30px 30px 20px;
+	padding: 30px 98px 64px 30px;
+}
+.plan-content small {
+	color: slategrey;
+	font-size: 18px;
+}
+.plan-content img {
+	width: 40%;
+}
+.food {
+	background-color: rgba(199, 224, 235, 0.338);
+}
+.family {
+	background-color: rgba(225, 200, 204, 0.195);
+}
+.education {
+	background-color: rgba(247, 241, 171, 0.286);
 }
