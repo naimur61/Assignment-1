@@ -1,0 +1,13 @@
+a {
+	text-decoration: none;
+	color: white;
+	padding: 5px 10px;
+	background-color: rgba(255, 68, 0, 0.701);
+	border-radius: 5px;
+}
+.Headline {
+	background-image: url("images/donation9.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
