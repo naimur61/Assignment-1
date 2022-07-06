@@ -119,7 +119,7 @@ small {
 	border-top-left-radius: 10px;
 	background-color: rgb(217, 221, 225);
 	border-style: none;
-	padding: 20px 80px;
+	padding: 20px 65px;
 	font-size: 19px;
 	font-family: "Patua One";
 	border-bottom-left-radius: 10px;
@@ -128,10 +128,11 @@ small {
 	background-color: rgb(235, 85, 31);
 	color: white;
 	border-style: none;
-	padding: 20px 80px;
+	padding: 20px 60px;
 	font-size: 19px;
 	border-top-right-radius: 10px;
 	border-bottom-right-radius: 10px;
+	margin-left: -5px;
 }
 footer {
 	text-align: center;
