@@ -33,3 +33,37 @@ a {
 	text-align: center;
 	margin: auto;
 }
+#selected {
+	border: 5px solid rgb(235, 85, 31);
+	color: rgb(235, 85, 31);
+}
+.section {
+	width: 700px;
+	display: flex;
+	text-align: center;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	margin: auto;
+	color: rgb(123, 122, 122);
+}
+.half-width {
+	width: 50%;
+	background-color: whitesmoke;
+	margin: 10px;
+	padding: 26px;
+}
+#amount {
+	border-style: hidden;
+	text-align: center;
+}
+hr {
+	width: 40%;
+	margin: auto;
+	border: 0.001px solid rgba(199, 199, 199, 0.873);
+}
+#button {
+	border: none;
+	background-color: rgb(235, 85, 31);
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
