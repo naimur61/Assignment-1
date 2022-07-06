@@ -2,7 +2,7 @@ a {
 	text-decoration: none;
 	color: white;
 	padding: 5px 10px;
-	background-color: rgba(255, 68, 0, 0.701);
+	background-color: rgb(245, 121, 75);
 	border-radius: 5px;
 }
 .Headline {
@@ -10,4 +10,14 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
+    font-family: 'Arima', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Patua One', cursive;
 }
+#title {
+	padding: 180px;
+	text-align: center;
+	width: 560px;
+	margin: auto;
+}
+#title h1{font-size: 50px;}
