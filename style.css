@@ -5,9 +5,10 @@
 a {
 	text-decoration: none;
 	color: white;
-	padding: 5px 10px;
+	padding: 10px 25px;
 	background-color: rgb(245, 121, 75);
 	border-radius: 5px;
+	font-size: 25px;
 }
 .Headline {
 	background-image: url("images/donation9.jpg");
@@ -24,8 +25,8 @@ a {
 	width: 560px;
 	margin: auto;
 }
-#title h1 {
-	font-size: 50px;
+h1 {
+	font-size: 55px;
 }
 .content {
 	font-family: "Courier New", Courier, monospace;
@@ -49,9 +50,12 @@ a {
 }
 .half-width {
 	width: 50%;
-	background-color: whitesmoke;
+	overflow: hidden;
 	margin: 10px;
 	padding: 26px;
+}
+.tk {
+	background-color: whitesmoke;
 }
 #input-ammount {
 	border-style: none;
@@ -76,16 +80,12 @@ hr {
 }
 .plan-content {
 	width: 50%;
-	background-color: antiquewhite;
 	margin: 30px 30px 30px 20px;
 	padding: 30px 98px 64px 30px;
 }
-.plan-content small {
+small {
 	color: slategrey;
 	font-size: 18px;
-}
-.plan-content img {
-	width: 40%;
 }
 .food {
 	background-color: rgba(199, 224, 235, 0.338);
@@ -95,4 +95,12 @@ hr {
 }
 .education {
 	background-color: rgba(247, 241, 171, 0.286);
+}
+.statement {
+	margin: 25px 40px 25px 40px;
+	padding: 30px 40px 25px 40px;
+}
+.contribute-rgn {
+	margin: 10px 80px 10px 80px;
+	padding: 10px 50px 10px 50px;
 }
