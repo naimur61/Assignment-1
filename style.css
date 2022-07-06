@@ -154,13 +154,20 @@ footer span {
 	color: white;
 	background-color: rgb(242, 83, 25);
 	padding: 50px;
-	margin-bottom: 4px;
 }
 .missions {
 	width: 50%;
 }
-.missions img{width: 100%;}
-.target{font-size: 20px;
-padding: 10px;}
-.target a{font-size: 15px;}
-.last-summary{margin-bottom: 50px;}
+.missions img {
+	width: 100%;
+}
+.target {
+	font-size: 20px;
+	padding: 10px;
+}
+.target a {
+	font-size: 15px;
+}
+.last-summary {
+	margin-bottom: 50px;
+}
