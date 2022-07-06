@@ -97,10 +97,57 @@ small {
 	background-color: rgba(247, 241, 171, 0.286);
 }
 .statement {
-	margin: 25px 40px 25px 40px;
-	padding: 30px 40px 25px 40px;
+	width: 1352px;
+	margin: auto;
 }
 .contribute-rgn {
-	margin: 10px 80px 10px 80px;
-	padding: 10px 50px 10px 50px;
+	margin: 30px 33px 30px 30px;
+	padding: 20px 50px 20px 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.contribute-rgn img {
+	width: 100%;
+	border-radius: 10px;
+}
+.contact {
+	margin: auto;
+	text-align: center;
+	background-color: rgba(255, 201, 85, 0.238);
+	width: 900px;
+	padding: 50px;
+}
+#email {
+	border-top-left-radius: 10px;
+	background-color: rgb(217, 221, 225);
+	border-style: none;
+	padding: 20px 80px;
+	font-size: 19px;
+	font-family: "Patua One";
+	border-bottom-left-radius: 10px;
+}
+#subscribe {
+	background-color: rgb(235, 85, 31);
+	color: white;
+	border-style: none;
+	padding: 20px 80px;
+	font-size: 19px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+footer {
+	text-align: center;
+	background-color: black;
+	padding: 20px;
+	margin-top: 110px;
+}
+footer h2 {
+	color: rgb(235, 85, 31);
+	font-family: "Arima", cursive;
+	font-family: "Josefin Sans", sans-serif;
+	font-family: "Patua One", cursive;
+	font-size: 40px;
+	padding: 10px;
+}
+footer span {
+	color: rgb(194, 194, 194);
 }
